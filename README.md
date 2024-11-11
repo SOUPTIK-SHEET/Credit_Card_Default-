@@ -1,5 +1,8 @@
 Credit Card Default Prediction
-The data set consists of 2000 samples from each of two categories. Five variables are.....
+
+The data set consists of 2000 samples from each of two categories. 
+
+Five variables are.....
 
 1. Income
 2. Age
