@@ -1,4 +1,4 @@
-#Credit Card Default Prediction
+# Credit Card Default Prediction
 
 The data set consists of 2000 samples from each of two categories. 
 
